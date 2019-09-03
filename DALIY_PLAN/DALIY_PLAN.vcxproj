@@ -117,6 +117,7 @@
   <ItemGroup>
     <ClCompile Include="2019_9_3.cpp" />
     <ClCompile Include="master_plan .cpp" />
+    <ClCompile Include="summary.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
