@@ -116,7 +116,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="2019-9-4.cpp" />
-    <ClCompile Include="2019_9_3.cpp" />
+    <ClCompile Include="2019-9-3.cpp" />
+    <ClCompile Include="2019-9-5.cpp" />
     <ClCompile Include="master_plan .cpp" />
     <ClCompile Include="summary.cpp" />
   </ItemGroup>

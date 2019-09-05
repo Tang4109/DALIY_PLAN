@@ -18,13 +18,16 @@
     <ClCompile Include="master_plan .cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="2019_9_3.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="summary.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="2019-9-4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2019-9-3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2019-9-5.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
